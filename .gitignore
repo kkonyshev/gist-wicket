@@ -1,0 +1,5 @@
+web-app/target/
+.metadata/
+web-app/.classpath
+web-app/.project
+web-app/.settings/
