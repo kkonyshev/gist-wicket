@@ -3,3 +3,8 @@ web-app/target/
 web-app/.classpath
 web-app/.project
 web-app/.settings/
+web-api/target/
+web-api/.classpath
+web-api/.project
+web-api/.settings/
+.recommenders/
